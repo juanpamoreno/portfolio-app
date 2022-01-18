@@ -34,3 +34,4 @@ out/
 
 ### VS Code ###
 /frontend/.vscode/
+**/package-lock.json
